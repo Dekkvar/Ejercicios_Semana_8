@@ -1,6 +1,6 @@
 # Ejercicios Semana 8
 
-## [Ejercicio 1]()
+## [Ejercicio 1](src/com/ejercicios/Ejercicio1.java)
 Crea un método que permita al usuario insertar datos en un array y otro que
 muestre los datos que contiene el array y sus índices (posiciones) hasta que el
 usuario decida parar (bucle). Los array se pueden pasar como parámetros a
