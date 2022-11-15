@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4dd355a-dd15-48fd-96c2-1dff8fff685a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.E_S">
+  <component name="RunManager" selected="Application.Juego">
     <configuration name="Azar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ejercicios.Azar" />
       <module name="Ejercicios_Semana_8" />
@@ -91,8 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Juego" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicios.Juego" />
+      <module name="Ejercicios_Semana_8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Juego" />
         <item itemvalue="Application.E_S" />
         <item itemvalue="Application.Ejercicio3" />
         <item itemvalue="Application.Azar" />
@@ -109,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668419472198</updated>
       <workItem from="1668419474372" duration="4412000" />
-      <workItem from="1668500430816" duration="2944000" />
+      <workItem from="1668500430816" duration="3727000" />
     </task>
     <servers />
   </component>
