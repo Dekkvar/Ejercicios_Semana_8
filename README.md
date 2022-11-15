@@ -12,7 +12,7 @@ parámetro un máximo y un mínimo y devuelva un entero con un número al
 azar entre el máximo y el mínimo.
 > Pista: Math.random()
 > 
-## [Ejercicio 3]()
+## [Ejercicio 3](src/com/ejercicios/Ejercicio3.java)
 Crea un método que dado una cantidad de datos X y un rango de estos,
 genere un array con X cantidad de datos generados al azar en el rango
 pedido y muestralos por pantalla.
