@@ -18,7 +18,7 @@ genere un array con X cantidad de datos generados al azar en el rango
 pedido y muestralos por pantalla.
 > Pista: Math.random()...
 
-## [Ejercicio 4]()
+## [Ejercicio 4](src/com/ejercicios/E_S.java)
 Crea una clase llamada “E_S” (de entrada/salida). Crea tres métodos:
 1. Debe recibir una cadena de caracteres y devolver una cadena de
    caracteres, solicitando al usuario dicha cadena.
