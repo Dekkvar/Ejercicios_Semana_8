@@ -27,12 +27,12 @@ Crea una clase llamada “E_S” (de entrada/salida). Crea tres métodos:
 3. Debe recibir una cadena de caracteres y mostrar por pantalla esa
    misma cadena.
 
-## [Ejercicio 5]()
+## [Ejercicio 5](src/com/ejercicios/Juego.java)
 Crea una clase “Juego” con un método que, dado un número al azar y un
 número dado por el usuario, compruebe si son iguales. Si no lo son, dará una
 pista de si el número al azar es mayor o menor que el del usuario.
 
-## [Ejercicio 6]()
+## [Ejercicio 6](src/com/ejercicios/Ejercicio6.java)
 En el método main que aune los métodos necesarios para generar un
 pequeño juego: el ordenador genera un número al azar (entre el 1 y el 100,
 por ejemplo) y el usuario tendrá 5 intentos para adivinarlo.
