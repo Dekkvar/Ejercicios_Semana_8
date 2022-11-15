@@ -6,7 +6,7 @@ muestre los datos que contiene el array y sus índices (posiciones) hasta que el
 usuario decida parar (bucle). Los array se pueden pasar como parámetros a
 las funciones o devolverlos igual que el resto de variables.
 
-## [Ejercicio 2]()
+## [Ejercicio 2](src/com/ejercicios/Azar.java)
 Crea una clase llamada “Azar”. En ella, crea un método que reciba por
 parámetro un máximo y un mínimo y devuelva un entero con un número al
 azar entre el máximo y el mínimo.
