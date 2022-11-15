@@ -7,7 +7,7 @@ public class Juego {
         if (guess > random) {
             response = "Estás buscando un número más pequeño.";
         } else if (guess < random) {
-            response = "Estás buscando un número más grande."
+            response = "Estás buscando un número más grande.";
         } else {
             response = "Has acertado!";
         }

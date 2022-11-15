@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4dd355a-dd15-48fd-96c2-1dff8fff685a" name="Changes" comment="" />
+    <list default="true" id="e4dd355a-dd15-48fd-96c2-1dff8fff685a" name="Changes" comment="Ejercicio 5 update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ejercicios/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ejercicios/Juego.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Juego">
+  <component name="RunManager" selected="Application.Ejercicio6">
     <configuration name="Azar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ejercicios.Azar" />
       <module name="Ejercicios_Semana_8" />
@@ -63,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicios.Ejercicio1" />
+    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicios.Ejercicio3" />
       <module name="Ejercicios_Semana_8" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicios.Ejercicio3" />
+    <configuration name="Ejercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicios.Ejercicio6" />
       <module name="Ejercicios_Semana_8" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio6" />
         <item itemvalue="Application.Juego" />
         <item itemvalue="Application.E_S" />
         <item itemvalue="Application.Ejercicio3" />
         <item itemvalue="Application.Azar" />
-        <item itemvalue="Application.Ejercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -121,8 +124,16 @@
       <option name="presentableId" value="Default" />
       <updated>1668419472198</updated>
       <workItem from="1668419474372" duration="4412000" />
-      <workItem from="1668500430816" duration="3987000" />
+      <workItem from="1668500430816" duration="5624000" />
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 5 update">
+      <created>1668505105139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668505105140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio 5 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 5 update" />
   </component>
 </project>
